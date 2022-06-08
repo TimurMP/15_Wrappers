@@ -39,7 +39,7 @@ public class MinMaxAppl {
     }
 
 
-//    public static String maxAndMina(String dataType) {
+//    public static String maxAndMin(String dataType) {
 //        String type = dataType.substring(0, 1).toUpperCase() + dataType.substring(1).toLowerCase();
 //
 //        String str = "Byte's Min. value is " + type.MIN_VALUE
